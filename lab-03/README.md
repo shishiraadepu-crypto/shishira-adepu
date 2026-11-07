@@ -9,6 +9,15 @@
 - **Section:** BTECH-CSE-2A (223)
 - **Institution:** Aurora
 
+## Live Deployment
+
+**Platform:** Render
+
+**Live API URL:**  
+https://lab-03-rest-api-6l0o.onrender.com/books/
+
+**Deployment Status:** Successfully Deployed
+
 ## 1. Objective
 
 To develop a RESTful API using Node.js, Express.js and SQLite by implementing search, sorting, filtering, pagination, input validation and proper HTTP status codes. This lab extends the CRUD operations developed in Lab 2.
